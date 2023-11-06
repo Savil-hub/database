@@ -29,3 +29,29 @@ To run the Ebookstore Database program on your local machine, follow these steps
 
    ```bash
    git clone https://github.com/yourusername/ebookstore-database.git
+
+## Usage
+
+The Ebookstore Database program offers the following options:
+
+- Enter a new book (1)
+- Update book information (2)
+- Delete a book (3)
+- Search books (4)
+- View all books (5)
+- Exit the program (0)
+
+## Example
+
+To enter a new book:
+
+1. Choose option "1" from the menu.
+2. Enter the book ID, title, author, and quantity when prompted.
+
+You can also choose other options to update, delete, search for, or view books in the ebookstore.
+
+## Credits
+
+- https://github.com/Savil-hub - Creator of the Ebookstore Database
+
+Feel free to contribute to this project or report any issues by opening a GitHub issue.
